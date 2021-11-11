@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f9bf147-f23e-4122-af6e-87319fcaacaa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/Projetos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Impressao-aula4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Impressao-aula6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Impressao-aula7-Tv.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Impressao-aula7-calc1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Impressao-aula7-calc2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Impressao-aula8-Importando-Modulo-PythonConsole.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Impressao-aula8-lambda.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula11_personalizar_excecao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula5_rev.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula7_calculadora1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula7_calculadora2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula7_televisao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula8_contador_letras.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula8_importacao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula8_lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../meu_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../notas - Copia.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../notas.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teste.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="20kqLrvVCPaob91yxFv449OX1cF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="aulas_dio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f9bf147-f23e-4122-af6e-87319fcaacaa" name="Changes" comment="" />
+      <created>1636598880678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636598880678</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
